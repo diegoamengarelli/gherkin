@@ -1,0 +1,14 @@
+BDD
+Gherkin:
+Keywords:
+    Feature = Business requirenment
+    Scenario/Example = Business situation
+    Background = set of steps you want to repeat for multiple scenarios
+    Given "some preconditions are met"
+    When "some action is done"
+    Then "some result is expected"
+    AND/BUT = connectors
+
+Cucumber: tool that supports BDD, read and execute gherkin
+
+
